@@ -2,4 +2,3 @@
 
 ## Frontend Mentor Coding Challenge Solution 💪
 
-https://new.express.adobe.com/id/urn:aaid:sc:AP:58b1daab-636b-4670-bba9-332775982916?invite=true&promoid=Z2G1FQKR&mv=other
